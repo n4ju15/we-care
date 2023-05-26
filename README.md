@@ -11,7 +11,7 @@ Landing page desenvolvida durante o módulo Front-End da formação Full Stack D
 ### Versão para Mobile
 
 <div>
-    <img width="250px" height="500px" title="projeto-mobile" src="./img/projeto-mobile.png"/>
+    <img width="250px" height="500px" title="projeto-mobile" src="./img/projeto-mobile.jpeg"/>
 </div>
 
 ## Tecnologias
